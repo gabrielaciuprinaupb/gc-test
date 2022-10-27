@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest_gc=self.webpackChunktest_gc||[]).push([[231],{1081:e=>{e.exports=JSON.parse('{"title":"Lecture","slug":"/Lecture/","permalink":"/gc-test/Lecture/","navigation":{"previous":{"title":"Intro","permalink":"/gc-test/"},"next":{"title":"Template-chapter","permalink":"/gc-test/Lecture/Template-Chapter/"}}}')}}]);
